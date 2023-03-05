@@ -1,0 +1,11 @@
+D:\GitHub\Projects\telegram-bot\Bakery_bot\Bakery_bot\bin\Debug\netcoreapp2.1\Bakery_bot.deps.json
+D:\GitHub\Projects\telegram-bot\Bakery_bot\Bakery_bot\bin\Debug\netcoreapp2.1\Bakery_bot.runtimeconfig.json
+D:\GitHub\Projects\telegram-bot\Bakery_bot\Bakery_bot\bin\Debug\netcoreapp2.1\Bakery_bot.runtimeconfig.dev.json
+D:\GitHub\Projects\telegram-bot\Bakery_bot\Bakery_bot\bin\Debug\netcoreapp2.1\Bakery_bot.dll
+D:\GitHub\Projects\telegram-bot\Bakery_bot\Bakery_bot\bin\Debug\netcoreapp2.1\Bakery_bot.pdb
+D:\GitHub\Projects\telegram-bot\Bakery_bot\Bakery_bot\obj\Debug\netcoreapp2.1\Bakery_bot.csprojAssemblyReference.cache
+D:\GitHub\Projects\telegram-bot\Bakery_bot\Bakery_bot\obj\Debug\netcoreapp2.1\Bakery_bot.csproj.CoreCompileInputs.cache
+D:\GitHub\Projects\telegram-bot\Bakery_bot\Bakery_bot\obj\Debug\netcoreapp2.1\Bakery_bot.AssemblyInfoInputs.cache
+D:\GitHub\Projects\telegram-bot\Bakery_bot\Bakery_bot\obj\Debug\netcoreapp2.1\Bakery_bot.AssemblyInfo.cs
+D:\GitHub\Projects\telegram-bot\Bakery_bot\Bakery_bot\obj\Debug\netcoreapp2.1\Bakery_bot.dll
+D:\GitHub\Projects\telegram-bot\Bakery_bot\Bakery_bot\obj\Debug\netcoreapp2.1\Bakery_bot.pdb
