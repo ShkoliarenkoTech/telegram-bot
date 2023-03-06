@@ -10,8 +10,7 @@ namespace Bakery_bot
     {
         static void Main(string[] args)
         {
-            var client = new TelegramBotClient("6013304748:AAF3OYLJkQTwmrw-XgNHIpY2ZthjbQOQhB4");
-
+            TelegramBotClient client = new TelegramBotClient("6013304748:AAF3OYLJkQTwmrw-XgNHIpY2ZthjbQOQhB4");
             client.StartReceiving(Update,Error);
             Console.ReadLine();
         }
@@ -21,9 +20,9 @@ namespace Bakery_bot
             var message = update.Message;
             if (message.Text != null)
             {
-                if (message.Text.ToLower().Contains("Hello"))
+                if (message.Text.ToLower().Contains("Привет"))
                 {
-                    await botClient.SendTextMessageAsync(message.Chat.Id, "Hi");
+                    await botClient.SendTextMessageAsync(message.Chat.Id,"Hi");
                     return;
                 }
 
